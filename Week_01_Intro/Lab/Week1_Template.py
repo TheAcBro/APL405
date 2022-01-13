@@ -20,14 +20,14 @@ class mohr():
     
     # Write func to calculate Eigen values of the stress tensor in increasing order of magnitude i.e. Principal Stresses in this line.
 
-    # R_maj =                #Major radius
-    # cent_maj =             #Centre of the major circle
+    R_maj =0                #Major radius
+    cent_maj = 0            #Centre of the major circle
     
-    #R_min =                 #Minor Radius
-    #cent_min =              #Centre of the minor circle
+    R_min =0                 #Minor Radius
+    cent_min =0              #Centre of the minor circle
     
-    #R_mid =                 #Intermediate (Radius of circle which includes both major and minor circle)
-    #cent_mid = 
+    R_mid =0                 #Intermediate (Radius of circle which includes both major and minor circle)
+    cent_mid =0 
     
     # Plot your FIGURE of Mohr circle
     
